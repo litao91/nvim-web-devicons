@@ -588,7 +588,7 @@ local icons = {
 		name = "Less",
 	},
 	["lhs"] = {
-		icon = "",
+		icon = "",
 		color = "#a074c4",
 		name = "Lhs",
 	},
